@@ -12,11 +12,11 @@ import Testimonial from '../components/Testimonial';
 import Brands from '../components/Brands';
 import Faq from '../components/Faq';
 import CallToAction from '../components/CallToAction';
+import useIsBrowser from '@docusaurus/useIsBrowser';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <>
       <Banner />
@@ -26,6 +26,7 @@ function HomepageHeader() {
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
+  const isBrowser = useIsBrowser();
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
@@ -35,7 +36,7 @@ export default function Home() {
         <Services />
         <FeaturesOne />
         <FeaturesTwo />
-        <Video />
+        { isBrowser && <Video />}
         <Testimonial />
         <Brands />
         <Faq />
