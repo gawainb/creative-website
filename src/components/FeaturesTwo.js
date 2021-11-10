@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 
 const FeaturesTwo = () => {
         return (
-            <section className="cta-two">
+            <section className="cta-two" id="featuresTwo">
                 <img src="img/shapes/cta-2-shape-1.png" alt="" className="cta-two__shape-1" />
                 <img src="img/shapes/cta-2-shape-2.png" alt="" className="cta-two__shape-2" />
                 <Container>
@@ -19,7 +19,7 @@ const FeaturesTwo = () => {
                                     </div>
 
                                     <p>Boost your reputation, visibility, and fanbase by collaborating directly with the brands that you know and love.</p>
-                                    <a href="#" className="thm-btn cta-two__btn">Discover More</a>
+                                    <a href="#videoOne" data-target="#videoOne" className="thm-btn cta-two__btn scroll-to-target">Discover More</a>
                                 </div>
                             </Col>
                         </Row>

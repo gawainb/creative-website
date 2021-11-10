@@ -19,11 +19,11 @@ const Banner = () => {
                 <Row>
                     <Col lg={7}>
                         <div className="banner-one__content">
-                            <p className="banner-one__tag-line">Welcome to Creative<a href="#">Open App</a></p>
+                            <p className="banner-one__tag-line">Welcome to Creative<a href="#">App Coming Soon</a></p>
                             <h3>The stage is <br/> <strong>YOURS</strong></h3>
                             <p>We are committed to providing Creators throughout the entertainent industry <br/> with DeFi tools and NFTs with daily streaming royalties, while offering <br/>a
                             gamified structure to build “Star Power”, build fan base, gain reputation, <br/> and partnership fundings by participating in brand campaigns.</p>
-                            <a href="#contact" data-target="#contact" className="thm-btn banner-one__btn scroll-to-target">Get Started</a>
+                            <a href="#features" data-target="#features" className="thm-btn banner-one__btn scroll-to-target">Learn More</a>
                         </div>
                     </Col>
                 </Row>

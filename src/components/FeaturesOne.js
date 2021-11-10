@@ -42,7 +42,7 @@ const FeaturesOne = () => {
                                     </div>
                                 </div>
                             </div>
-                            <a href="#" className="thm-btn cta-three__btn">Discover More</a>
+                            <a href="#featuresTwo" data-target="#featuresTwo" className="thm-btn cta-three__btn scroll-to-target">Discover More</a>
                         </div>
                     </Col>
                 </div>
