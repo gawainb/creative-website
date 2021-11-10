@@ -2,34 +2,41 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Creative Platform Documentation
 
-Let's discover **Docusaurus in less than 5 minutes**.
+*A gamified blockchain platform for independent creators, fans, and brands to collaborate directly and earn rewards using P2E DeFi incentives.*
+---
 
-## Getting Started
+We believe in the future of the creator economy and are introducing a platform to launch a asset NFT for creators and brands to incentivize from NFTs.
 
-Get started by **creating a new site**.
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/watch?v=JcJYXfEf7mA"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Description
 
-## Generate a new site
+In order to come up with a product that is able to attract early adopters, we need to be able to demonstrate that the concept is achievable is terms of technology. For that reason, we will be built a proof of concept  (POC) or better called prototype.
 
-Generate a new Docusaurus site using the **classic template**:
+This proof of concept showcases the core features of the Creative platform and has the main objective of verifying that the idea has the potential in a real-world situation. Basically it aims to determine whether the project is feasible and will function as planned.
 
-```shell
-npm init docusaurus@latest my-website classic
-```
+The POC that encloses this MVP starts with a design. In this design the team makes ideation of the product vision, hypothesis and KPI's to measure to come up with a lean solution.
 
-## Start your site
+## Assumptions
+This building process is based on the [Creative Whitepaper](https://docs.creativeplatform.io/resources/whitepaper) which describes the general vision. In our vision, we want to build a working product that assumes the following:
 
-Run the development server:
+* Who will be the users?
+Creators of any kind of content (mostly audiovisual) on one side. Institutions (Brands) willing to support creators in exchange for custom and fresh NFT assets that hold acruing valuation overtime or value added propositions for them.
 
-```shell
-cd my-website
+* What value does your product offer?
+A financial instrument to finance a community that creates partnerships and businesses around the NFTs and DeFi.
 
-npx docusaurus start
-```
+* What problems does your product solve?
+The absence of a platform for creatives to earn a living and progress in value based on their reputation of success.
 
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+* When and how much revenue will it generate?

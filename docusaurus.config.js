@@ -26,12 +26,6 @@ const config = {
           // Please change this to your repo.
           editUrl: 'https://github.com/g2entgroup/creative-website/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/g2entgroup/creative-website/tree/maing2/creative',
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -49,13 +43,22 @@ const config = {
           src: 'img/Creative_logo-200.svg',
         },
         items: [
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Documentation',
+          // },
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Documentation',
+            href: "https://docs.creativeplatform.io/",
+            label: "Documentation",
+            position: "left",
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: "https://blog.creativeplatform.io",
+            label: "Blog",
+            position: "left",
+          },
           {
             href: 'https://github.com/g2entgroup/creative-website',
             label: 'GitHub',
@@ -69,9 +72,13 @@ const config = {
           {
             title: 'Docs',
             items: [
+              // {
+              //   label: 'Get Started',
+              //   to: '/docs/intro',
+              // },
               {
-                label: 'Get Started',
-                to: '/docs/intro',
+                href: "https://docs.creativeplatform.io",
+                label: "Overview",
               },
             ],
           },
@@ -92,8 +99,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                href: "https://blog.creativeplatform.io",
+                label: "Blog",
               },
               {
                 label: 'GitHub',
