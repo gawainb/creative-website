@@ -33,7 +33,6 @@ const Services = () => {
                                 <i>{unlimited}</i>
                                 <h3>Unlimited NFT Uploads</h3>
                             </div>
-
                         </Col>
 
                         <Col className="service-one__col wow fadeInUp" data-wow-duration="1500ms"
@@ -42,7 +41,6 @@ const Services = () => {
                                 <i>{edit}</i>
                                 <h3>Pre-mint NFT Editing</h3>
                             </div>
-
                         </Col>
 
                         <Col className="service-one__col wow fadeInUp" data-wow-duration="1500ms"
@@ -51,7 +49,6 @@ const Services = () => {
                                 <i>{onRamp}</i>
                                 <h3>Easy Fiat On-ramp</h3>
                             </div>
-
                         </Col>
 
                         <Col className="service-one__col wow fadeInUp" data-wow-duration="1500ms"
@@ -60,15 +57,10 @@ const Services = () => {
                                 <i>{royalties}</i>
                                 <h3>Daily NFT Royalties</h3>
                             </div>
-
                         </Col>
-
                     </Row>
-
                 </Container>
-
             </section>
-
         )
 }
 export default Services;

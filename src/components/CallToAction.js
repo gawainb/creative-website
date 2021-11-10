@@ -12,7 +12,7 @@ const CallToAction = () => {
                 <div className="cta-one__content text-center">
                     <h3>Try Our App Today &amp; <br/> Experience Endless Possibilities</h3>
                     <p>brands get started with a free 1 month trial</p>
-                    <a href="#" className="thm-btn cta-one__btn">Open App</a>
+                    <a href="#" className="thm-btn cta-one__btn">Coming Soon</a>
                 </div>
             </Container>
         </section>

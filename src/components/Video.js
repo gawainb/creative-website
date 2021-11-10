@@ -20,7 +20,7 @@ export default class Video extends Component {
 
     render(){
         return (
-            <section className="video-one">
+            <section className="video-one" id="videoOne">
                 <Container>
                     <div className="video-one__box wow fadeInUp" data-wow-duration="1500ms">
                         <img src="img/resources/Creative_large-Concert.png" alt="" />
