@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Creative',
   tagline: 'The Stage is YOURS',
-  url: 'https://creativeplatform.io',
+  url: 'https://creativeplatform.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -50,12 +50,12 @@ const config = {
           //   label: 'Documentation',
           // },
           {
-            href: "https://docs.creativeplatform.io/",
+            href: "https://docs.creativeplatform.xyz/",
             label: "Documentation",
             position: "left",
           },
           {
-            href: "https://blog.creativeplatform.io",
+            href: "https://blog.creativeplatform.xyz",
             label: "Blog",
             position: "left",
           },
@@ -77,7 +77,7 @@ const config = {
               //   to: '/docs/intro',
               // },
               {
-                href: "https://docs.creativeplatform.io",
+                href: "https://docs.creativeplatform.xyz",
                 label: "Overview",
               },
             ],
@@ -99,7 +99,7 @@ const config = {
             title: 'More',
             items: [
               {
-                href: "https://blog.creativeplatform.io",
+                href: "https://blog.creativeplatform.xyz",
                 label: "Blog",
               },
               {
