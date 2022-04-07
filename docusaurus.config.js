@@ -37,7 +37,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Creative',
+        title: 'CREATIVE',
         logo: {
           alt: 'Creative Logo',
           src: 'img/Creative_logo-200.svg',
