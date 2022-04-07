@@ -60,6 +60,16 @@ const config = {
             position: "left",
           },
           {
+            href: "https://events.creativeplatform.xyz",
+            label: "Creative Events",
+            position: "left",
+          },
+          {
+            href: "https://creative-newsletter.eo.page/sign-up",
+            label: "Creative Newsletter",
+            position: "right",
+          },
+          {
             href: 'https://github.com/g2entgroup/creative-website',
             label: 'GitHub',
             position: 'right',
