@@ -7,7 +7,7 @@ import { Container } from 'react-bootstrap';
 const Brands = () => {
 
     const params = {
-        slidesPerView : 5,
+        slidesPerView : 4,
         loop: true,
         speed: 1000,
         spaceBetween : 30,
@@ -18,7 +18,7 @@ const Brands = () => {
         // Responsive breakpoints
         breakpoints: {
             1499:{
-                slidesPerView : 5
+                slidesPerView : 4
             },
 
             991:{
@@ -41,40 +41,31 @@ const Brands = () => {
                 <div className="brand-one__carousel">
                 <Swiper {...params}>
                     <div className="item">
-                        <img src="img/brand/polygon.png" alt=""/>
+                        <a href='https://metacartel.org'><img src="img/brand/metacartel.png" alt="metacartel"/></a>
                     </div>
                     <div className="item">
-                        <img src="img/brand/filecoin.png" alt=""/>
+                        <a href='https://filecoin.io/'><img src="img/brand/filecoin.png" alt="filecoin"/></a>
                     </div>
                     <div className="item">
-                        <img src="img/brand/white-chainlink.png" alt=""/>
+                        <a href='https://chain.link/'><img src="img/brand/white-chainlink.png" alt="chainlink"/></a>
                     </div>
                     <div className="item">
-                        <img src="img/brand/daohaus.png" alt=""/>
+                        <a href='https://daohaus.club'><img src="img/brand/daohaus.png" alt="daohaus"/></a>
                     </div>
                     <div className="item">
-                        <img src="img/brand/poap.png" alt=""/>
+                       <a href='https://poap.xyz'><img src="img/brand/poap.png" alt="poap"/></a>
                     </div>
                     <div className="item">
-                        <img src="img/brand/brand-1-6.png" alt=""/>
+                        <a href='https://polygon.technology'><img src="img/brand/polygon.png" alt="polygon"/></a>
                     </div>
                     <div className="item">
-                        <img src="img/brand/brand-1-1.png" alt=""/>
+                        <a href='https://docs.textile.io'><img src="img/brand/textile.png" alt="textile"/></a>
                     </div>
                     <div className="item">
-                        <img src="img/brand/brand-1-2.png" alt=""/>
+                        <a href='https://urbanuprisecrew.com/'><img src="img/brand/uuc.png" alt="Urban Uprise Crew"/></a>
                     </div>
                     <div className="item">
-                        <img src="img/brand/brand-1-3.png" alt=""/>
-                    </div>
-                    <div className="item">
-                        <img src="img/brand/brand-1-4.png" alt=""/>
-                    </div>
-                    <div className="item">
-                        <img src="img/brand/brand-1-5.png" alt=""/>
-                    </div>
-                    <div className="item">
-                        <img src="img/brand/brand-1-6.png" alt=""/>
+                        <a href='https://lens.dev'><img src="img/brand/lens-web.png" alt="Lens Protocol"/></a>
                     </div>
                 </Swiper>
 
