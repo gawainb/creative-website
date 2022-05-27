@@ -62,10 +62,10 @@ const Brands = () => {
                         <a href='https://docs.textile.io'><img src="img/brand/textile.png" alt="textile"/></a>
                     </div>
                     <div className="item">
-                        <a href='https://urbanuprisecrew.com/'><img src="img/brand/uuc.png" alt="Urban Uprise Crew"/></a>
+                        <a href='https://urbanuprisecrew.com'><img src="img/brand/UUC.png" alt="Urban Uprise Crew"/></a>
                     </div>
                     <div className="item">
-                        <a href='https://lens.dev'><img src="img/brand/lens-web.png" alt="Lens Protocol"/></a>
+                        <a href='https://lens.dev'><img src="img/brand/Lens-web.png" alt="Lens Protocol"/></a>
                     </div>
                 </Swiper>
 
