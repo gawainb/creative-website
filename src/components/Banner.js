@@ -15,7 +15,6 @@ const Banner = () => {
 
             <Container>
                 <img src="img/shapes/banner-shapes-1-3.png" alt="" className="banner-one__shape-moc-1"/>
-                <img src="img/mocs/Creative_Concert.png" alt="" className="banner-one__moc" />
                 <Row>
                     <Col lg={7}>
                         <div className="banner-one__content">
@@ -27,7 +26,8 @@ const Banner = () => {
                         </div>
                     </Col>
                 </Row>
-            </Container>
+                <img src="img/mocs/Creative_Concert.png" alt="" className="banner-one__moc" />
+                </Container>
         </section>
     )
 }
