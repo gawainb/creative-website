@@ -96,12 +96,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Discord',
                 href: 'https://discord.gg/QxBrFmYwhA',
+                label: 'Discord',
               },
               {
-                label: 'Twitter',
                 href: 'https://twitter.com/creativecrtv',
+                label: 'Twitter',
               },
             ],
           },
@@ -109,12 +109,12 @@ const config = {
             title: 'More',
             items: [
               {
-                href: "https://blog.creativeplatform.xyz",
+                href: 'https://blog.creativeplatform.xyz',
                 label: "Blog",
               },
               {
-                label: 'GitHub',
                 href: 'https://github.com/g2entgroup',
+                label: 'GitHub',
               },
             ],
           },
