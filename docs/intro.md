@@ -9,15 +9,9 @@ sidebar_position: 1
 
 We believe in the future of the creator economy and are introducing a platform to launch a asset NFT for creators and brands to incentivize from NFTs.
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=JcJYXfEf7mA"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+{% embed url="https://www.youtube.com/watch?v=JcJYXfEf7mA" %}
+A quick intro video to explain Creative.
+{% endembed %}
 
 ## Description
 

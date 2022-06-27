@@ -82,12 +82,12 @@ const config = {
               //   to: '/docs/intro',
               // },
               {
-                href: 'https://blog.creativeplatform.xyz',
-                label: "Blog",
+                label: 'Get Started',
+                to: '/docs/intro',
               },
               {
-                href: "https://docs.creativeplatform.xyz",
-                label: "Creative Documentation",
+                href: 'https://blog.creativeplatform.xyz',
+                label: "Blog",
               },
               {
                 href: 'https://github.com/creativeplatform',
