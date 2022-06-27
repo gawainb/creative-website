@@ -50,11 +50,6 @@ const config = {
           //   label: 'Documentation',
           // },
           {
-            href: "https://docs.creativeplatform.xyz/",
-            label: "Documentation",
-            position: "left",
-          },
-          {
             href: "https://blog.creativeplatform.xyz",
             label: "Blog",
             position: "left",
@@ -65,14 +60,14 @@ const config = {
             position: "left",
           },
           {
-            href: "https://creative-newsletter.eo.page/sign-up",
-            label: "Creative Newsletter",
-            position: "right",
+            href:"https://urbanuprisecrew.com/",
+            label: "Mint UUC NFT",
+            position: "left",
           },
           {
-            href: 'https://github.com/g2entgroup/creative-website',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://creative-newsletter.eo.page/sign-up",
+            label: "Sign Up",
+            position: "right",
           },
         ],
       },
@@ -80,15 +75,23 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Resources',
             items: [
               // {
               //   label: 'Get Started',
               //   to: '/docs/intro',
               // },
               {
+                href: 'https://blog.creativeplatform.xyz',
+                label: "Blog",
+              },
+              {
                 href: "https://docs.creativeplatform.xyz",
-                label: "Overview",
+                label: "Creative Documentation",
+              },
+              {
+                href: 'https://github.com/creativeplatform',
+                label: 'GitHub',
               },
             ],
           },
@@ -106,15 +109,11 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Projects',
             items: [
               {
-                href: 'https://blog.creativeplatform.xyz',
-                label: "Blog",
-              },
-              {
-                href: 'https://github.com/g2entgroup',
-                label: 'GitHub',
+                href: 'https://urbanuprisecrew.com/',
+                label: "Mint UUC NFT",
               },
             ],
           },
