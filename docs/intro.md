@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Creative Platform Documentation
 
 A gamified blockchain platform for independent creators, fans, and brands to collaborate directly and earn rewards using P2E DeFi incentives.
