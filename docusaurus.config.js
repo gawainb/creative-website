@@ -35,13 +35,22 @@ const config = {
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
         },
+        googleAnalytics: {
+          trackingID: '310106755',
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    {
+      image: "img/Creative_logo-200.svg",
+      metadata: [
+        { name: "og:type", content: "website" },
+        { name: "og:site_name", content: "Creative platform" },
+        { name: "twitter:site", content: "@creativecrtv" },
+      ],
       navbar: {
         title: 'CREATIVE',
         logo: {
@@ -105,32 +114,27 @@ const config = {
             title: 'Community',
             items: [
               {
-                href: 'https://discord.gg/QxBrFmYwhA',
-                label: 'Discord',
+                label: "Discord",
+                href: "https://discord.gg/QxBrFmYwhA",
               },
               {
-                href: 'https://twitter.com/creativecrtv',
-                label: 'Twitter',
-              },
-            ],
-          },
-          {
-            title: 'Projects',
-            items: [
-              {
-                href: 'https://urbanuprisecrew.com/',
-                label: "Mint UUC NFT",
+                label: "Twitter",
+                href: "https://twitter.com/creativecrtv",
               },
             ],
           },
         ],
+        logo: {
+          alt: "Creative logo",
+          src: "img/Creative_logo-200.svg",
+        },
         copyright: `Copyright © ${new Date().getFullYear()} Creative Organization DAO LLC.  Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-    }),
+    },
 };
 
 module.exports = config;
