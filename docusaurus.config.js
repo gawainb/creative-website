@@ -58,20 +58,15 @@ const config = {
           src: 'img/Creative_logo-200.svg',
         },
         items: [
-          // {
-          //   type: 'doc',
-          //   docId: 'intro',
-          //   position: 'left',
-          //   label: 'Documentation',
-          // },
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Docs',
+          },
           {
             href: "https://blog.creativeplatform.xyz",
             label: "Blog",
-            position: "left",
-          },
-          {
-            href: "https://events.creativeplatform.xyz",
-            label: "Creative Events",
             position: "left",
           },
           {
@@ -84,6 +79,10 @@ const config = {
             label: "Sign Up",
             position: "right",
           },
+          {
+            type: 'docsVersionDropdown',
+            position: "right",
+          },
         ],
       },
       footer: {
@@ -92,12 +91,8 @@ const config = {
           {
             title: 'Resources',
             items: [
-              // {
-              //   label: 'Get Started',
-              //   to: '/docs/intro',
-              // },
               {
-                label: 'Get Started',
+                label: 'Docs',
                 to: '/docs/intro',
               },
               {
@@ -120,6 +115,19 @@ const config = {
               {
                 label: "Twitter",
                 href: "https://twitter.com/creativecrtv",
+              },
+            ],
+          },
+          {
+            title: 'Ecosystem',
+            items: [
+              {
+                label: "UUC NFT Mint",
+                href: "https://urbanuprisecrew.com/",
+              },
+              {
+                label: "Creative Events",
+                href: "https://events.creativeplatform.xyz",
               },
             ],
           },
