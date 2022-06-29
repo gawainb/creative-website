@@ -36,7 +36,7 @@ const config = {
           filename: 'sitemap.xml',
         },
         googleAnalytics: {
-          trackingID: '310106755',
+          trackingID: 'UA-194677834-1',
           anonymizeIP: true,
         },
       }),
