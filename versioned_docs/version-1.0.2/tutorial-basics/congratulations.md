@@ -33,7 +33,7 @@ As a creator you now have access to your very own media library of NFTs that you
 
 1. Go to `My Library` under Wallet address menu.
 2. Click `Fetch Library` to load all of you assests within your library.
-    * From this page you can either submit to a [Brand Campaign](./manage-docs-versions), edit, delete, or list your NFT for sale to various marketplaces (the choice is yours).
+    * From this page you can either submit to a Brand Campaign, edit, delete, or list your NFT for sale to various marketplaces (the choice is yours).
 
 # Submit to Brand Campaign
 You can submit to a brand campaign 2 ways.
