@@ -18,8 +18,6 @@ Let's look at these functions in detail.
 
 ## Get the Request Fee <a href="#get-the-request-fee" id="get-the-request-fee"></a>
 
-## <a href="#get-the-request-fee" id="get-the-request-fee"></a>
-
 Many RNG services require tokens in order to operate. To get the cost of the rng you may do so using:
 
 ```
@@ -32,8 +30,6 @@ This function returns two values:
 * **requestFee:** is the amount of the token that needs to be paid
 
 ## Request a Random Number <a href="#request-a-random-number" id="request-a-random-number"></a>
-
-## <a href="#request-a-random-number" id="request-a-random-number"></a>
 
 Once the user has approved the RNG service spend, they may request a random number like so:
 
@@ -48,8 +44,6 @@ This function returns two values:
 
 ## Check if Request is Complete <a href="#check-if-request-is-complete" id="check-if-request-is-complete"></a>
 
-## <a href="#check-if-request-is-complete" id="check-if-request-is-complete"></a>
-
 The user may check if a request is complete:
 
 ```
@@ -57,8 +51,6 @@ function isRequestComplete(uint32 requestId) external view returns (bool isCompl
 ```
 
 ## Retrieve Random Number <a href="#retrieve-random-number" id="retrieve-random-number"></a>
-
-## <a href="#retrieve-random-number" id="retrieve-random-number"></a>
 
 ```
 function randomNumber(uint32 requestId) external returns (uint256 randomNum);
