@@ -20,8 +20,7 @@ const Banner = () => {
                         <div className="banner-one__content">
                             <p className="banner-one__tag-line">Welcome to Creative<a href="#">App Coming Soon</a></p>
                             <h3>The stage is <br/> <strong>YOURS</strong></h3>
-                            <p>We are committed to providing Creators throughout the entertainment industry <br/> with DeFi tools, and NFTs with daily streaming royalties, while offering <br/>a
-                            gamified structure to build “Star Power”, build fan base, gain reputation, <br/> and partnership fundings by participating in brand campaigns.</p>
+                            <h4>Join the movement that's creating a revolutionary way of connecting Creators, Brands and their Fans. A more fair, transparent, and fun ecosystem for everyone.</h4>
                             <a href="#features" data-target="#features" className="thm-btn banner-one__btn scroll-to-target">Learn More</a>
                         </div>
                     </Col>
