@@ -115,7 +115,7 @@ const config = {
             title: 'Resources',
             items: [
               {
-                label: 'Docs',
+                label: 'Guide',
                 to: '/docs/intro',
               },
               {
@@ -157,7 +157,7 @@ const config = {
         ],
         logo: {
           alt: "Creative logo",
-          src: "img/Creative_logo-200.svg",
+          src: "img/Creative_logo.png",
         },
         copyright: `Copyright © ${new Date().getFullYear()} Creative Organization DAO LLC.  Built with Docusaurus.`,
       },
