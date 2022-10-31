@@ -25,7 +25,7 @@ const Banner = () => {
                         </div>
                     </Col>
                 </Row>
-                <img src="img/mocs/Creative_Concert.png" alt="" className="banner-one__moc" />
+                <img src="img/mocs/creativeconcertstage.png" alt="" className="banner-one__moc" />
                 </Container>
         </section>
     )
