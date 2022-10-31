@@ -88,13 +88,13 @@ const config = {
             label: 'Docs',
           },
           {
-            href: "https://blog.creativeplatform.xyz",
-            label: "Blog",
+            href:"https://urbanuprisecrew.com/",
+            label: "Urban Uprise Crew",
             position: "left",
           },
           {
-            href:"https://urbanuprisecrew.com/",
-            label: "Mint UUC NFT",
+            href: "https://blog.creativeplatform.xyz",
+            label: "Blog",
             position: "left",
           },
           {
