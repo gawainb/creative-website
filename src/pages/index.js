@@ -1,7 +1,5 @@
 import React from 'react';
-import clsx from 'clsx';
 import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Banner from '../components/Banner';
 import Services from '../components/Services';
@@ -30,7 +28,8 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="The stage is yours">
+      description="The stage is yours"
+      >
       <HomepageHeader />
       <main>
         <Services />

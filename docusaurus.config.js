@@ -68,11 +68,22 @@ const config = {
   
         //... other Algolia params
       },
+      announcementBar: {
+        id: 'support_us',
+        content:
+          'Our Community NFT Collection <strong>Urban Uprise Crew</strong> is available now... <strong><a target="_blank" rel="noopener noreferrer" href="https://mint.urbanuprisecrew.com">CLAIM YOURS TODAY 💀</a></strong>',
+        backgroundColor: '#2B1A20',
+        textColor: '#52F761',
+        isCloseable: false,
+      },
       image: "img/Creative_logo-200.svg",
       metadata: [
         { name: "og:type", content: "website" },
         { name: "og:site_name", content: "Creative platform" },
         { name: "twitter:site", content: "@creativecrtv" },
+        { name: "twitter:title", content:"theCREATIVE.eth"},
+        { name: "twitter:description", content: "A collective of developers and creatives contributing to the Creative Platform, with a common goal of blockchain technology & making the entertainment industry a better workspace for creativity."},
+        { name: "twitter:image", content: "/img/mocs/Creative_Concert.png"}
       ],
       navbar: {
         title: 'CREATIVE',
@@ -88,9 +99,19 @@ const config = {
             label: 'Docs',
           },
           {
-            href:"https://urbanuprisecrew.com/",
-            label: "Urban Uprise Crew",
-            position: "left",
+            type: 'dropdown',
+            label: 'Our Products',
+            position: 'left',
+            items: [
+              {
+                href: "https://events.creativeplatform.xyz",
+                label: "Creative Events",
+              },
+              {
+                href:"https://urbanuprisecrew.com",
+                label: "Urban Uprise Crew",
+              },
+            ]
           },
           {
             href: "https://blog.creativeplatform.xyz",
@@ -142,22 +163,24 @@ const config = {
             ],
           },
           {
-            title: 'Ecosystem',
+            title: 'Our Products',
             items: [
-              {
-                label: "UUC NFT Mint",
-                href: "https://urbanuprisecrew.com/",
-              },
               {
                 label: "Creative Events",
                 href: "https://events.creativeplatform.xyz",
+              },
+              {
+                label: "Urban Uprise Crew",
+                href: "https://urbanuprisecrew.com/",
               },
             ],
           },
         ],
         logo: {
           alt: "Creative logo",
-          src: "img/Creative_logo.png",
+          src: "img/Creative_logo-200.svg",
+          width: 60,
+          height: 51,
         },
         copyright: `Copyright © ${new Date().getFullYear()} Creative Organization DAO LLC.  Built with Docusaurus.`,
       },
