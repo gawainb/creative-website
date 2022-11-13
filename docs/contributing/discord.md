@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 
 # Join our Discord
-If you're looking to contribute best way is to start by joining our [Discord](https://discord.gg/4SzEbmcKwK). 
+If you're looking to contribute best way is to start by joining our [Discord](https://discord.gg/SGeQTQBh2U). 
 
 # Next Steps
 Once you get through our bot gatekeeper and pass verification here are the next steps.
