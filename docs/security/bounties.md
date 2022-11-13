@@ -20,6 +20,6 @@ The issue must:
 
 * Be a previously unreported, non-public vulnerability.
 * Include enough detail for us to identify and reproduce the problem.
-* All reports should start with an email to [bugs@creativeplatform.io](mailto:bugs@creativeplatform.io), and they will receive a response within 24 hours. Non-security issues are not eligible for this bounty.
+* All reports should start with an email to [bugs@creativeplatform.xyz](mailto:bugs@creativeplatform.xyz), and they will receive a response within 24 hours. Non-security issues are not eligible for this bounty.
 
 Determinations of eligibility and all terms related to this award are at the sole and final discretion of the Creative Community DAO.
