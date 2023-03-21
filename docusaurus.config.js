@@ -104,6 +104,10 @@ const config = {
             position: 'left',
             items: [
               {
+                href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
+                label: "The CREATIVE Podcast"
+              },
+              {
                 href: "https://nouns.build/dao/0x5da6ae3d2cce42dd0b805b0bc3befeab0e0b9cca",
                 label: "CREATIVE KIDZ ⌐◨-◨",
               },
@@ -174,20 +178,24 @@ const config = {
             title: 'Our Products',
             items: [
               {
-                href: "https://nouns.build/dao/0x5da6ae3d2cce42dd0b805b0bc3befeab0e0b9cca",
-                label: "CREATIVE KIDZ ⌐◨-◨",
+                label: "The CREATIVE Podcast 🔊"
+                href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
               },
               {
+                label: "CREATIVE KIDZ ⌐◨-◨",
+                href: "https://nouns.build/dao/0x5da6ae3d2cce42dd0b805b0bc3befeab0e0b9cca",
+              },
+              {
+                label:"CREATIVE TV 📺",
                 href: "https://creative-monorepo.vercel.app",
-                label:"CREATIVE TV",
+              },
+              {
+                label: "Urban Uprise Crew 💀",
+                href: "https://urbanuprisecrew.com/",
               },
               {
                 label: "Creative Events",
                 href: "https://events.creativeplatform.xyz",
-              },
-              {
-                label: "Urban Uprise Crew",
-                href: "https://urbanuprisecrew.com/",
               },
             ],
           },
@@ -198,7 +206,7 @@ const config = {
           width: 60,
           height: 51,
         },
-        copyright: `Copyright © ${new Date().getFullYear()} Creative Organization DAO LLC.  Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Creative Organization DAO LLC. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
