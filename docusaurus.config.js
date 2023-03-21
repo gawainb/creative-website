@@ -104,12 +104,20 @@ const config = {
             position: 'left',
             items: [
               {
-                href: "https://events.creativeplatform.xyz",
-                label: "Creative Events",
+                href: "https://nouns.build/dao/0x5da6ae3d2cce42dd0b805b0bc3befeab0e0b9cca",
+                label: "CREATIVE KIDZ ⌐◨-◨",
+              },
+              {
+                href: "https://creative-monorepo.vercel.app",
+                label:"CREATIVE TV",
               },
               {
                 href:"https://urbanuprisecrew.com",
                 label: "Urban Uprise Crew",
+              },
+              {
+                href: "https://events.creativeplatform.xyz",
+                label: "CREATIVE Events",
               },
             ]
           },
@@ -119,7 +127,7 @@ const config = {
             position: "left",
           },
           {
-            href: "https://creative-newsletter.eo.page/sign-up",
+            href: "https://crtvnews.beehiiv.com/subscribe",
             label: "Sign Up",
             position: "right",
           },
@@ -165,6 +173,14 @@ const config = {
           {
             title: 'Our Products',
             items: [
+              {
+                href: "https://nouns.build/dao/0x5da6ae3d2cce42dd0b805b0bc3befeab0e0b9cca",
+                label: "CREATIVE KIDZ ⌐◨-◨",
+              },
+              {
+                href: "https://creative-monorepo.vercel.app",
+                label:"CREATIVE TV",
+              },
               {
                 label: "Creative Events",
                 href: "https://events.creativeplatform.xyz",
