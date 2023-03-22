@@ -71,7 +71,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          'Our Community NFT Collection <strong>Urban Uprise Crew</strong> is available now... <strong><a target="_blank" rel="noopener noreferrer" href="https://mint.urbanuprisecrew.com">CLAIM YOURS TODAY 💀</a></strong>',
+          'Watch the latest episode of <strong>The Creative Podcast</strong> available now on Spotify... <strong><a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195">CLAIM A NEW POAP EACH EPSODE</a></strong>',
         backgroundColor: '#2B1A20',
         textColor: '#52F761',
         isCloseable: false,
@@ -105,7 +105,7 @@ const config = {
             items: [
               {
                 href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
-                label: "The CREATIVE Podcast"
+                label: "The CREATIVE Podcast",
               },
               {
                 href: "https://nouns.build/dao/0x5da6ae3d2cce42dd0b805b0bc3befeab0e0b9cca",
@@ -178,7 +178,7 @@ const config = {
             title: 'Our Products',
             items: [
               {
-                label: "The CREATIVE Podcast"
+                label: "The CREATIVE Podcast",
                 href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
               },
               {
