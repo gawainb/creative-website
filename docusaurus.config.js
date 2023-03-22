@@ -100,24 +100,16 @@ const config = {
           },
           {
             type: 'dropdown',
-            label: 'Our Products',
+            label: 'Platforms',
             position: 'left',
             items: [
-              {
-                href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
-                label: "The CREATIVE Podcast",
-              },
-              {
-                href: "https://nouns.build/dao/0x5da6ae3d2cce42dd0b805b0bc3befeab0e0b9cca",
-                label: "CREATIVE KIDZ ⌐◨-◨",
-              },
               {
                 href: "https://creative-monorepo.vercel.app",
                 label:"CREATIVE TV",
               },
               {
-                href:"https://urbanuprisecrew.com",
-                label: "Urban Uprise Crew",
+                label:"STAGEVERSE Metaverse",
+                href: "https://stageverse.com/app/space/63884c376223630008162441/creative-hq",
               },
               {
                 href: "https://events.creativeplatform.xyz",
@@ -126,8 +118,28 @@ const config = {
             ]
           },
           {
+            type: 'dropdown',
+            label: 'Collections',
+            position: 'left',
+            items: [
+              {
+                href: "https://nouns.build/dao/0x5da6ae3d2cce42dd0b805b0bc3befeab0e0b9cca",
+                label: "CREATIVE KIDZ ⌐◨-◨",
+              },
+              {
+                href:"https://urbanuprisecrew.com",
+                label: "Urban Uprise Crew",
+              },
+            ]
+          },
+          {
             href: "https://blog.creativeplatform.xyz",
             label: "Blog",
+            position: "left",
+          },
+          {
+            href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
+            label: "Podcast",
             position: "left",
           },
           {
@@ -172,30 +184,40 @@ const config = {
                 label: "Twitter",
                 href: "https://twitter.com/creativecrtv",
               },
-            ],
-          },
-          {
-            title: 'Our Products',
-            items: [
               {
                 label: "The CREATIVE Podcast",
                 href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
               },
-              {
-                label: "CREATIVE KIDZ ⌐◨-◨",
-                href: "https://nouns.build/dao/0x5da6ae3d2cce42dd0b805b0bc3befeab0e0b9cca",
-              },
+            ],
+          },
+          {
+            title: 'Platforms',
+            items: [
+              
               {
                 label:"CREATIVE TV",
                 href: "https://creative-monorepo.vercel.app",
               },
               {
-                label: "Urban Uprise Crew",
-                href: "https://urbanuprisecrew.com/",
+                label:"STAGEVERSE Metaverse",
+                href: "https://stageverse.com/app/space/63884c376223630008162441/creative-hq",
               },
               {
                 label: "Creative Events",
                 href: "https://events.creativeplatform.xyz",
+              },
+            ],
+          },
+          {
+            title: 'Collections',
+            items: [
+              {
+                label: "CREATIVE KIDZ ⌐◨-◨",
+                href: "https://nouns.build/dao/0x5da6ae3d2cce42dd0b805b0bc3befeab0e0b9cca",
+              },
+              {
+                label: "Urban Uprise Crew",
+                href: "https://urbanuprisecrew.com/",
               },
             ],
           },
