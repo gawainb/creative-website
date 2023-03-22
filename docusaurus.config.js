@@ -178,7 +178,7 @@ const config = {
             title: 'Our Products',
             items: [
               {
-                label: "The CREATIVE Podcast 🔊"
+                label: "The CREATIVE Podcast"
                 href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
               },
               {
@@ -186,11 +186,11 @@ const config = {
                 href: "https://nouns.build/dao/0x5da6ae3d2cce42dd0b805b0bc3befeab0e0b9cca",
               },
               {
-                label:"CREATIVE TV 📺",
+                label:"CREATIVE TV",
                 href: "https://creative-monorepo.vercel.app",
               },
               {
-                label: "Urban Uprise Crew 💀",
+                label: "Urban Uprise Crew",
                 href: "https://urbanuprisecrew.com/",
               },
               {
