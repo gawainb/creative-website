@@ -105,7 +105,7 @@ const config = {
             items: [
               {
                 href: "https://creative-monorepo.vercel.app",
-                label:"CREATIVE TV",
+                label:"CREATIVE tv",
               },
               {
                 label:"STAGEVERSE Metaverse",
@@ -195,7 +195,7 @@ const config = {
             items: [
               
               {
-                label:"CREATIVE TV",
+                label:"CREATIVE tv",
                 href: "https://creative-monorepo.vercel.app",
               },
               {
