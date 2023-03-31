@@ -104,7 +104,7 @@ const config = {
             position: 'left',
             items: [
               {
-                href: "https://creative-monorepo.vercel.app",
+                href: "https://tv.creativeplatform.xyz",
                 label:"CREATIVE tv",
               },
               {
