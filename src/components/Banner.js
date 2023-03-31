@@ -18,14 +18,14 @@ const Banner = () => {
                 <Row>
                     <Col lg={7}>
                         <div className="banner-one__content">
-                            <p className="banner-one__tag-line">Welcome to Creative<a href="#">App Coming Soon</a></p>
+                            <p className="banner-one__tag-line">Welcome to Creative<a href="https://lnk.bio/crtv">App Coming Soon</a></p>
                             <h3>The stage is <br/> <strong>YOURS</strong></h3>
                             <h4>Join the movement that's creating a revolutionary way of connecting Creators, Brands and their Fans. A more fair, transparent, and fun ecosystem for everyone.</h4>
                             <a href="#features" data-target="#features" className="thm-btn banner-one__btn scroll-to-target">Learn More</a>
                         </div>
                     </Col>
                 </Row>
-                <img src="img/mocs/creativeconcertstage.png" alt="" className="banner-one__moc" />
+                    <iframe width='480' height="340" src="https://lvpr.tv?v=ed401mvzp9c9z8gq" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen className="banner-one__moc" />
                 </Container>
         </section>
     )

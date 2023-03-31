@@ -105,7 +105,7 @@ const config = {
             items: [
               {
                 href: "https://tv.creativeplatform.xyz",
-                label:"CREATIVE tv",
+                label:"CREATIVE TV",
               },
               {
                 label:"STAGEVERSE Metaverse",
