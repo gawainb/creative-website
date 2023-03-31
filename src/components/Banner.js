@@ -25,7 +25,7 @@ const Banner = () => {
                         </div>
                     </Col>
                 </Row>
-                    <iframe width='auto' height="480" src="https://lvpr.tv?v=ed401mvzp9c9z8gq" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen className="banner-one__moc" />
+                    <iframe width='auto' height="480" src="https://lvpr.tv?v=ed401mvzp9c9z8gq" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" sandbox="allow-scripts" className="banner-one__moc" />
                 </Container>
         </section>
     )
