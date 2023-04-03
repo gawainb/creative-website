@@ -123,7 +123,7 @@ const config = {
             position: 'left',
             items: [
               {
-                href: "https://nouns.build/dao/0x5da6ae3d2cce42dd0b805b0bc3befeab0e0b9cca",
+                href: "https://kidz.creativeplatform.xyz
                 label: "CREATIVE KIDZ ⌐◨-◨",
               },
               {
@@ -196,7 +196,7 @@ const config = {
               
               {
                 label:"CREATIVE tv",
-                href: "https://creative-monorepo.vercel.app",
+                href: "https://tv.creativeplatform.xyz
               },
               {
                 label:"STAGEVERSE Metaverse",
@@ -213,7 +213,7 @@ const config = {
             items: [
               {
                 label: "CREATIVE KIDZ ⌐◨-◨",
-                href: "https://nouns.build/dao/0x5da6ae3d2cce42dd0b805b0bc3befeab0e0b9cca",
+                href: "https://kidz.creativeplatform.xyz
               },
               {
                 label: "Urban Uprise Crew",
