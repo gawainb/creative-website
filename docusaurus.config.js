@@ -123,7 +123,7 @@ const config = {
             position: 'left',
             items: [
               {
-                href: "https://kidz.creativeplatform.xyz
+                href: "https://kidz.creativeplatform.xyz",
                 label: "CREATIVE KIDZ ⌐◨-◨",
               },
               {
@@ -196,7 +196,7 @@ const config = {
               
               {
                 label:"CREATIVE tv",
-                href: "https://tv.creativeplatform.xyz
+                href: "https://tv.creativeplatform.xyz",
               },
               {
                 label:"STAGEVERSE Metaverse",
@@ -213,7 +213,7 @@ const config = {
             items: [
               {
                 label: "CREATIVE KIDZ ⌐◨-◨",
-                href: "https://kidz.creativeplatform.xyz
+                href: "https://kidz.creativeplatform.xyz",
               },
               {
                 label: "Urban Uprise Crew",
