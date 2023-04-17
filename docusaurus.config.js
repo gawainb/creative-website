@@ -112,6 +112,10 @@ const config = {
                 href: "https://stageverse.com/app/space/63884c376223630008162441/creative-hq",
               },
               {
+                label:"CREATIVE Work",
+                href: "https://yellow-term-1103.on.fleek.co/",
+              },
+              {
                 href: "https://events.creativeplatform.xyz",
                 label: "CREATIVE Events",
               },
@@ -195,12 +199,16 @@ const config = {
             items: [
               
               {
-                label:"CREATIVE tv",
+                label:"CREATIVE TV",
                 href: "https://tv.creativeplatform.xyz",
               },
               {
                 label:"STAGEVERSE Metaverse",
                 href: "https://stageverse.com/app/space/63884c376223630008162441/creative-hq",
+              },
+              {
+                label:"CREATIVE Work",
+                href: "https://yellow-term-1103.on.fleek.co/",
               },
               {
                 label: "Creative Events",
