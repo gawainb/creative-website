@@ -148,7 +148,7 @@ const config = {
           },
           {
             href: "https://crtvnews.beehiiv.com/subscribe",
-            label: "Sign Up",
+            label: "Stay Updated",
             position: "right",
           },
           {
@@ -166,6 +166,10 @@ const config = {
               {
                 label: 'Guide',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Publication',
+                href: 'https://crtvnews.beehiiv.com',
               },
               {
                 href: 'https://blog.creativeplatform.xyz',
@@ -191,6 +195,10 @@ const config = {
               {
                 label: "The CREATIVE Podcast",
                 href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
+              },
+              {
+                label: "Instagram",
+                href: "https://www.instagram.com/creativecrtv",
               },
             ],
           },
