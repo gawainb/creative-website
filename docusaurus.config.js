@@ -26,6 +26,9 @@ const config = {
           // Please change this to your repo.
           editUrl: 'https://github.com/g2entgroup/creative-website/',
         },
+        blog: {
+
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -146,6 +149,7 @@ const config = {
             label: "Podcast",
             position: "left",
           },
+          {to: 'blog', label: 'Invest & Earn 💰', position: 'left'},
           {
             href: "https://crtvnews.beehiiv.com/subscribe",
             label: "Stay Updated",
@@ -171,6 +175,7 @@ const config = {
                 label: 'Publication',
                 href: 'https://crtvnews.beehiiv.com',
               },
+              
               {
                 href: 'https://blog.creativeplatform.xyz',
                 label: "Blog",
@@ -193,12 +198,12 @@ const config = {
                 href: "https://twitter.com/creativecrtv",
               },
               {
-                label: "The CREATIVE Podcast",
-                href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
-              },
-              {
                 label: "Instagram",
                 href: "https://www.instagram.com/creativecrtv",
+              },
+              {
+                label: "The CREATIVE Podcast",
+                href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
               },
             ],
           },
@@ -221,12 +226,16 @@ const config = {
               {
                 label: "Creative Events",
                 href: "https://events.creativeplatform.xyz",
-              },
+              }
             ],
           },
           {
             title: 'Collections',
             items: [
+              {
+                label: "Membership Pass",
+                href: "https://app.unlock-protocol.com/checkout?id=7f9da384-5bae-4075-b02b-90bd197df113"
+              },
               {
                 label: "CREATIVE KIDZ ⌐◨-◨",
                 href: "https://kidz.creativeplatform.xyz",

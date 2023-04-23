@@ -1,25 +1,20 @@
 ---
 slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+title: 👋🏽 Welcome
+authors: [g2]
+tags: [hello, creative]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+![The Stage Is Yours](./animated-creative-Discord-Profile-Banner.gif)
 
-Simply add Markdown files (or folders) to the `blog` directory.
+**Welcome to Creative Organization DAO**, a decentralized community and platform for creatives, investors, fans, and brands alike!
 
-Regular blog authors can be added to `authors.yml`.
+Whether you're an artist looking to gain financial independence and showcase your work, an investor seeking innovative opportunities, a fan of the creative arts, or a brand looking to support and collaborate with talented individuals, you've come to the right place.
 
-The blog post date can be extracted from filenames, such as:
+<!--truncate-->
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+Our community-driven model is founded on principles of collaboration, transparency, and fairness, and we're committed to empowering and supporting creatives of all kinds. We offer a range of decentralized platforms and tools, including a metaverse for social events and showcasing 3D creative works, a video livestreaming platform, direct funding opportunities through brand campaigns, and much more.
 
-A blog post folder can be convenient to co-locate blog post images:
+Join us in revolutionizing creativity and taking the industry to new heights. Let's work together to achieve financial independence, showcase our talents, and create a vibrant and supportive community that nurtures creativity in all its forms.
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+Thank you for being a part of Creative Organization DAO. Together, we can achieve greatness!
