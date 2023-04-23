@@ -1,17 +1,17 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+g2:
+  name: G2
+  title: Founder/CEO
+  url: https://github.com/sirgawain0x
+  image_url: https://github.com/sirgawain0x.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
+jeldon:
+  name: J. Eldon
+  title: Sound Engineer @ Creative
   url: https://github.com/yangshun
   image_url: https://github.com/yangshun.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
+headishere:
+  name: headishere
+  title: Project Manager @ Creative
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
