@@ -107,7 +107,7 @@ const config = {
             position: 'left',
             items: [
               {
-                label:"Creative Marketplace",
+                label:"CREATIVE Marketplace",
                 href:"https://marketplace.creativeplatform.xyz"
               },
               {
@@ -215,7 +215,7 @@ const config = {
             title: 'Platforms',
             items: [
               {
-                label:"Creative Marketplace",
+                label:"CREATIVE Marketplace",
                 href:"https://marketplace.creativeplatform.xyz"
               },
               {
