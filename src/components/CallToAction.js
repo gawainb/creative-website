@@ -11,8 +11,8 @@ const CallToAction = () => {
                 <div className="cta-one__circle-3"></div>
                 <div className="cta-one__content text-center">
                     <h3>Try The Creative Platform Today &amp; <br/> Experience Endless Possibilities</h3>
-                    <p>Brands get started with a free 3-month trial</p>
-                    <a href="https://lnk.bio/crtv" className="thm-btn cta-one__btn">Coming Soon</a>
+                    <p>Brands get started with 2-months free!</p>
+                    <a href="https://app.unlock-protocol.com/checkout?id=0c0b9948-f155-445e-9485-96b8d8b6bc6a" className="thm-btn cta-one__btn">Supercharge Your Business</a>
                 </div>
             </Container>
         </section>

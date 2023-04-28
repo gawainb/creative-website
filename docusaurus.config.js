@@ -107,6 +107,10 @@ const config = {
             position: 'left',
             items: [
               {
+                label:"Creative Marketplace",
+                href:"https://marketplace.creativeplatform.xyz"
+              },
+              {
                 href: "https://tv.creativeplatform.xyz",
                 label:"CREATIVE TV",
               },
@@ -210,7 +214,10 @@ const config = {
           {
             title: 'Platforms',
             items: [
-              
+              {
+                label:"Creative Marketplace",
+                href:"https://marketplace.creativeplatform.xyz"
+              },
               {
                 label:"CREATIVE TV",
                 href: "https://tv.creativeplatform.xyz",

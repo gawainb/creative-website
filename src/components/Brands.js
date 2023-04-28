@@ -47,6 +47,12 @@ const Brands = () => {
                         <a href='https://filecoin.io/'><img src="img/brand/filecoin.png" alt="filecoin"/></a>
                     </div>
                     <div className="item">
+                        <a href='https://www.beehiiv.com/?via=crtv'><img src="img/brand/beehiiv.png" alt="Beehiiv"/></a>
+                    </div>
+                    <div className="item">
+                        <a href='https://www.t-mobile.com'><img src="img/brand/TFB.png" alt="T-Mobile"/></a>
+                    </div>
+                    <div className="item">
                         <a href='https://chain.link/'><img src="img/brand/white-chainlink.png" alt="chainlink"/></a>
                     </div>
                     <div className="item">

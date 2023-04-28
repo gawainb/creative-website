@@ -21,6 +21,7 @@ As an Investors Pass holder, you will gain access to our investment dashboard, w
 * Real-time updates on investment performance.
 * A revenue share based on your continued investment with us.
 * Priority access to our investment team for personalized support.
+* Exclusive access to investor-only group.
 
 Our revenue share program rewards our Investors Pass holders who continue to invest with us, as we believe in the power of long-term partnerships. The more you invest, the more you can potentially earn, making this program an excellent opportunity for those seeking consistent returns over time.
 
