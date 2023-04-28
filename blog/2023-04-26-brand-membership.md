@@ -6,7 +6,7 @@ authors:
   title: Founder/CEO
   url: https://github.com/sirgawain0x
   image_url: https://github.com/sirgawain0x.png
-tags: [membership, Brand]
+tags: [membership, brand]
 ---
 
 We are thrilled to introduce our new Brand Pass, which provides exclusive access to our software platforms, ecosystem opportunities and promises revenue based on your continued engagement. 
