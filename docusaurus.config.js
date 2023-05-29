@@ -74,7 +74,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          'Watch the latest episode of <strong>The Creative Podcast</strong> available now on Spotify... <strong><a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195">CLAIM A NEW POAP EACH EPSODE</a></strong>',
+          'Watch the latest episode of <strong>The Creative Podcast</strong> available now on Spotify... <strong><a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195">CLAIM A NEW POAP EACH EPISODE</a></strong>',
         backgroundColor: '#2B1A20',
         textColor: '#52F761',
         isCloseable: false,
@@ -107,20 +107,12 @@ const config = {
             position: 'left',
             items: [
               {
-                label:"CREATIVE Marketplace",
-                href:"https://marketplace.creativeplatform.xyz"
-              },
-              {
                 href: "https://tv.creativeplatform.xyz",
                 label:"CREATIVE TV",
               },
               {
                 label:"STAGEVERSE Metaverse",
                 href: "https://stageverse.com/app/space/63884c376223630008162441/creative-hq",
-              },
-              {
-                label:"CREATIVE Work",
-                href: "https://yellow-term-1103.on.fleek.co/",
               },
               {
                 href: "https://events.creativeplatform.xyz",
@@ -133,6 +125,10 @@ const config = {
             label: 'Collections',
             position: 'left',
             items: [
+              {
+                href: "https://marketplace.creativeplatform.xyz",
+                label: "CREATIVE Memberships"
+              },
               {
                 href: "https://kidz.creativeplatform.xyz",
                 label: "CREATIVE KIDZ ⌐◨-◨",
@@ -148,12 +144,12 @@ const config = {
             label: "Blog",
             position: "left",
           },
+          {to: 'blog', label: 'Invest & Earn 💰', position: 'left'},
           {
             href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
             label: "Podcast",
-            position: "left",
+            position: "right",
           },
-          {to: 'blog', label: 'Invest & Earn 💰', position: 'left'},
           {
             href: "https://crtvnews.beehiiv.com/subscribe",
             label: "Stay Updated",
@@ -215,20 +211,12 @@ const config = {
             title: 'Platforms',
             items: [
               {
-                label:"CREATIVE Marketplace",
-                href:"https://marketplace.creativeplatform.xyz"
-              },
-              {
                 label:"CREATIVE TV",
                 href: "https://tv.creativeplatform.xyz",
               },
               {
                 label:"STAGEVERSE Metaverse",
                 href: "https://stageverse.com/app/space/63884c376223630008162441/creative-hq",
-              },
-              {
-                label:"CREATIVE Work",
-                href: "https://yellow-term-1103.on.fleek.co/",
               },
               {
                 label: "Creative Events",
@@ -240,8 +228,8 @@ const config = {
             title: 'Collections',
             items: [
               {
-                label: "Membership Pass",
-                href: "https://app.unlock-protocol.com/checkout?id=7f9da384-5bae-4075-b02b-90bd197df113"
+                label: "CREATIVE Membership",
+                href: "https://marketplace.creativeplatform.xyz"
               },
               {
                 label: "CREATIVE KIDZ ⌐◨-◨",
