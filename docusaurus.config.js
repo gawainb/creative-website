@@ -172,7 +172,11 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Publication',
+                label: 'Privacy Policy',
+                to: '/docs/legal/privacy-policy',
+              },
+              {
+                label: 'Monthly Publication',
                 href: 'https://crtvnews.beehiiv.com',
               },
               

@@ -43,14 +43,17 @@ const Brands = () => {
                     <div className="item">
                         <a href='https://metacartel.org'><img src="img/brand/metacartel.png" alt="metacartel"/></a>
                     </div>
+                    <div className='item'>
+                        <a href='https://livepeer.org'><img src='img/brand/livepeer.png' alt='livepeer' width={80}/></a>
+                    </div>
                     <div className="item">
                         <a href='https://filecoin.io/'><img src="img/brand/filecoin.png" alt="filecoin"/></a>
                     </div>
                     <div className="item">
-                        <a href='https://www.beehiiv.com/?via=crtv'><img src="img/brand/beehiiv_text.png" width="200px" alt="Beehiiv"/></a>
+                        <a href='https://www.beehiiv.com/?via=crtv'><img src="img/brand/beehiiv_text.png" width={220} alt="Beehiiv"/></a>
                     </div>
                     <div className="item">
-                        <a href='https://www.t-mobile.com/business'><img src="img/brand/TFB.png" width="200px" alt="T-Mobile"/></a>
+                        <a href='https://www.t-mobile.com/business'><img src="img/brand/TFB.png" width={200} alt="T-Mobile"/></a>
                     </div>
                     <div className="item">
                         <a href='https://chain.link/'><img src="img/brand/white-chainlink.png" alt="chainlink"/></a>
