@@ -50,13 +50,16 @@ const Brands = () => {
                         <a href='https://filecoin.io/'><img src="img/brand/filecoin.png" alt="filecoin"/></a>
                     </div>
                     <div className="item">
-                        <a href='https://www.beehiiv.com/?via=crtv'><img src="img/brand/beehiiv_text.png" width={220} alt="Beehiiv"/></a>
+                        <a href='https://www.beehiiv.com/?via=crtv'><img src="img/brand/beehiiv_text.png" width={200} alt="Beehiiv"/></a>
                     </div>
                     <div className="item">
-                        <a href='https://www.t-mobile.com/business'><img src="img/brand/TFB.png" width={200} alt="T-Mobile"/></a>
+                        <a href='https://www.t-mobile.com/business'><img src="img/brand/TFB.png" width={180} alt="T-Mobile"/></a>
                     </div>
                     <div className="item">
                         <a href='https://chain.link/'><img src="img/brand/white-chainlink.png" alt="chainlink"/></a>
+                    </div>
+                    <div className='item'>
+                        <a href='https://stageverse.com'><img src='img/brand/stageverse.png' alt='stageverse' width={80}/></a>
                     </div>
                     <div className="item">
                         <a href='https://daohaus.club'><img src="img/brand/daohaus.png" alt="daohaus"/></a>

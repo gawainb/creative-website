@@ -151,7 +151,7 @@ const config = {
             position: "right",
           },
           {
-            href: "https://crtvnews.beehiiv.com/subscribe",
+            href: "https://dearcrtv.beehiiv.com/subscribe",
             label: "Stay Updated",
             position: "right",
           },
@@ -175,11 +175,6 @@ const config = {
                 label: 'Privacy Policy',
                 to: '/docs/legal/privacy-policy',
               },
-              {
-                label: 'Monthly Publication',
-                href: 'https://crtvnews.beehiiv.com',
-              },
-              
               {
                 href: 'https://blog.creativeplatform.xyz',
                 label: "Blog",
@@ -208,6 +203,10 @@ const config = {
               {
                 label: "The CREATIVE Podcast",
                 href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
+              },
+              {
+                label: 'Monthly Publication',
+                href: 'https://dearcrtv.beehiiv.com',
               },
             ],
           },
