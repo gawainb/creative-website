@@ -1,3 +1,9 @@
+---
+id: cookie-policy
+title: Cookie Policy
+sidebar_position: 3
+---
+
 ## Cookie Policy for Creative Organization DAO
 
 **Last updated: November 7, 2023**
