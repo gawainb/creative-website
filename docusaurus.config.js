@@ -161,7 +161,7 @@ const config = {
             position: 'left',
             items: [
               {
-                href: "https://blog.creativeplatform.xyz",
+                href: "https://news.creativeplatform.xyz",
                 label: "News",
               },
               {
