@@ -74,7 +74,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          'Watch the latest episode of <strong>The Creative Podcast</strong> available now on Spotify... <strong><a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195">CLAIM A NEW POAP EACH EPISODE</a></strong>',
+          'Introducing our brand new decentralized notification channels, <strong>The Creative Notifications</strong> and <strong>The Creative</strong> using <strong><a target="_blank" rel="noopener noreferrer" href="https://push.org">push.org</a></strong>!',
         backgroundColor: '#2B1A20',
         textColor: '#52F761',
         isCloseable: false,
@@ -82,7 +82,7 @@ const config = {
       image: "img/Creative_logo-200.svg",
       metadata: [
         { name: "og:type", content: "website" },
-        { name: "og:site_name", content: "Creative platform" },
+        { name: "og:site_name", content: "The Creative" },
         { name: "twitter:site", content: "@creativecrtv" },
         { name: "twitter:title", content:"theCREATIVE.eth"},
         { name: "twitter:description", content: "A collective of developers and creatives contributing to the Creative Platform, with a common goal of blockchain technology & making the entertainment industry a better workspace for creativity."},
@@ -108,11 +108,27 @@ const config = {
             items: [
               {
                 href: "https://tv.creativeplatform.xyz",
-                label:"CREATIVE TV",
+                label: "CREATIVE TV",
               },
               {
-                label:"STAGEVERSE Metaverse",
-                href: "https://stageverse.com/app/space/63884c376223630008162441/creative-hq",
+                href: "https://music.creativeplatform.xyz",
+                label: "CREATIVE Music",
+              },
+              {
+                href: "https://marketplace.creativeplatform.xyz",
+                label: "CREATIVE Marketplace"
+              },
+              {
+                href: "https://fanverge.creativeplatform.xyz",
+                label: "Fanverge"
+              },
+              {
+                href: "https://work.creativeplatform.xyz",
+                label: "CREATIVE Work",
+              },
+              {
+                href: "https://dao.creativeplatform.xyz",
+                label: "CREATIVE ProjeX",
               },
               {
                 href: "https://events.creativeplatform.xyz",
@@ -126,7 +142,7 @@ const config = {
             position: 'left',
             items: [
               {
-                href: "https://marketplace.creativeplatform.xyz",
+                href: "https://memberships.creativeplatform.xyz",
                 label: "CREATIVE Memberships"
               },
               {
@@ -137,22 +153,36 @@ const config = {
                 href:"https://urbanuprisecrew.com",
                 label: "Urban Uprise Crew",
               },
-            ]
+            ],
           },
           {
-            href: "https://blog.creativeplatform.xyz",
-            label: "Blog",
-            position: "left",
+            type: 'dropdown',
+            label: 'Media',
+            position: 'left',
+            items: [
+              {
+                href: "https://blog.creativeplatform.xyz",
+                label: "News",
+              },
+              {
+                href: "https://blog.creativeplatform.xyz",
+                label: "Blog",
+              },
+            ],
           },
-          {to: 'blog', label: 'Invest & Earn 💰', position: 'left'},
+          {
+            to: 'blog', 
+            label: 'Invest & Earn 💰', 
+            position: 'left',
+          },
           {
             href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
             label: "Podcast",
             position: "right",
           },
           {
-            href: "https://dearcrtv.beehiiv.com/subscribe",
-            label: "Stay Updated",
+            href: "https://news.creativeplatform.xyz/subscribe",
+            label: "Get Updates",
             position: "right",
           },
           {
