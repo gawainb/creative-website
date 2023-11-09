@@ -172,7 +172,7 @@ const config = {
           },
           {
             to: 'blog', 
-            label: 'Invest & Earn 💰', 
+            label: '✅ Unlock the VIP Pass to the Future', 
             position: 'left',
           },
           {
@@ -195,6 +195,54 @@ const config = {
         style: 'dark',
         links: [
           {
+            title: 'Community',
+            items: [
+              {
+                label: "Twitter",
+                href: "https://twitter.com/creativecrtv",
+              },
+              {
+                label: "Instagram",
+                href: "https://www.instagram.com/creativecrtv",
+              },
+              {
+                label: "Discord",
+                href: "https://discord.com/servers/creative-779364937503604777",
+              },
+              {
+                label: "Telegram",
+                href: "https://t.me/+PaiZoO2ojAAyOGRh"
+              },
+            ]
+          },
+          {
+            title: 'Collections',
+            items: [
+              {
+                href: "https://memberships.creativeplatform.xyz",
+                label: "CREATIVE Membership",
+                
+              },
+              {
+                href: "https://kidz.creativeplatform.xyz",
+                label: "CREATIVE KIDZ ⌐◨-◨",
+              },
+              {
+                href: "https://urbanuprisecrew.com/",
+                label: "Urban Uprise Crew",
+              },
+            ]
+          },
+          {
+            title: 'Partner Solutions',
+            items: [
+              {
+                label:"T-Mobile for Business",
+                href: "https://mdm.creativeplatform.xyz",
+              },
+            ]
+          },
+          {
             title: 'Resources',
             items: [
               {
@@ -206,73 +254,14 @@ const config = {
                 to: '/docs/legal/privacy-policy',
               },
               {
-                href: 'https://blog.creativeplatform.xyz',
-                label: "Blog",
+                label: 'Terms & Conditions',
+                to: 'docs/legal/terms-conditions',
               },
               {
                 href: 'https://github.com/creativeplatform',
                 label: 'GitHub',
               },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: "Discord",
-                href: "https://discord.gg/QxBrFmYwhA",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/creativecrtv",
-              },
-              {
-                label: "Instagram",
-                href: "https://www.instagram.com/creativecrtv",
-              },
-              {
-                label: "The CREATIVE Podcast",
-                href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
-              },
-              {
-                label: 'Monthly Publication',
-                href: 'https://dearcrtv.beehiiv.com',
-              },
-            ],
-          },
-          {
-            title: 'Platforms',
-            items: [
-              {
-                label:"CREATIVE TV",
-                href: "https://tv.creativeplatform.xyz",
-              },
-              {
-                label:"STAGEVERSE Metaverse",
-                href: "https://stageverse.com/app/space/63884c376223630008162441/creative-hq",
-              },
-              {
-                label: "Creative Events",
-                href: "https://events.creativeplatform.xyz",
-              }
-            ],
-          },
-          {
-            title: 'Collections',
-            items: [
-              {
-                label: "CREATIVE Membership",
-                href: "https://marketplace.creativeplatform.xyz"
-              },
-              {
-                label: "CREATIVE KIDZ ⌐◨-◨",
-                href: "https://kidz.creativeplatform.xyz",
-              },
-              {
-                label: "Urban Uprise Crew",
-                href: "https://urbanuprisecrew.com/",
-              },
-            ],
+            ]
           },
         ],
         logo: {
