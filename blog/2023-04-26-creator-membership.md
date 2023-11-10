@@ -28,5 +28,5 @@ Our revenue share program rewards our pass holders who continue to invest with u
 
 **[🛒 Purchase Creator Membership](https://app.unlock-protocol.com/checkout?id=bbbcff5f-835d-4fa3-9761-988d5da9da18)**
 
-Don't miss out on this incredible opportunity to invest with us and potentially earn significant returns. Drop by our [Discord](https://discord.gg/yAEFtFF7UB) to sign up for this program after becoming a member.
+Don't miss out on this incredible opportunity to invest with us and potentially earn significant returns. Drop by our [Discord](https://discord.com/servers/creative-779364937503604777) to sign up for this program after becoming a member.
 

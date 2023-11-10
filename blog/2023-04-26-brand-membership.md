@@ -32,4 +32,4 @@ Don't miss out on this incredible opportunity to invest with us and potentially 
 
 Sign up for our Brand Pass program today and start advertising with confidence! All of our passes offer referral bonuses where you get 20% of the membership price if a friend signs up. 
 
-Drop by our [Discord](https://discord.gg/yAEFtFF7UB) to sign up for this program after becoming a member.
+Drop by our [Discord](https://discord.com/servers/creative-779364937503604777) to sign up for this program after becoming a member.
