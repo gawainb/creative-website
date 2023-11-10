@@ -32,3 +32,5 @@ Our revenue share program rewards our Investors Pass holders who continue to inv
 Don't miss out on this incredible opportunity to invest with us and potentially earn significant returns. 
 
 Sign up for our Investors Pass program today and start advertising with confidence! All of our passes offer referral bonuses where you get 20% of the membership price if a friend signs up. 
+
+Drop by our [Discord](https://discord.com/servers/creative-779364937503604777) for more membership perks.
