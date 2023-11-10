@@ -44,25 +44,25 @@ const Brands = () => {
                         <a href='https://metacartel.org'><img src="img/brand/metacartel.png" alt="metacartel"/></a>
                     </div>
                     <div className='item'>
-                        <a href='https://livepeer.org'><img src='img/brand/livepeer.png' alt='livepeer' width={80}/></a>
+                        <a href='https://livepeer.org'><img src='img/brand/livepeer.png' alt='livepeer' width={60}/></a>
                     </div>
                     <div className="item">
-                        <a href='https://filecoin.io/'><img src="img/brand/filecoin.png" alt="filecoin"/></a>
+                        <a href='https://filecoin.io/'><img src="img/brand/filecoin.png" width={140} alt="filecoin"/></a>
                     </div>
-                    <div className="item">
-                        <a href='https://www.beehiiv.com/?via=crtv'><img src="img/brand/beehiiv_text.png" width={200} alt="Beehiiv"/></a>
+                    <div className="item" style={{paddingTop: 20}}>
+                        <a href='https://www.beehiiv.com/?via=crtv'><img src="img/brand/beehiiv_text.png" width={140} alt="Beehiiv"/></a>
                     </div>
-                    <div className="item">
-                        <a href='https://www.t-mobile.com/business'><img src="img/brand/TFB.png" width={180} alt="T-Mobile"/></a>
+                    <div className="item" style={{paddingTop: 12}}>
+                        <a href='https://www.t-mobile.com/business' ><img src="img/brand/TFB.png" width={180} alt="T-Mobile"/></a>
                     </div>
                     <div className="item">
                         <a href='https://chain.link/'><img src="img/brand/white-chainlink.png" alt="chainlink"/></a>
                     </div>
-                    <div className='item'>
-                        <a href='https://stageverse.com'><img src='img/brand/stageverse.png' alt='stageverse' width={80}/></a>
+                    <div className='item' style={{paddingTop: 12}}>
+                        <a href='https://push.org'><img src='img/brand/Push-Logo-Standard-Dark.png' alt='PUSH.org' width={125}/></a>
                     </div>
                     <div className="item">
-                        <a href='https://daohaus.club'><img src="img/brand/daohaus.png" alt="daohaus"/></a>
+                        <a href='https://daohaus.fun'><img src="img/brand/daohaus.png" alt="daohaus"/></a>
                     </div>
                     <div className="item">
                        <a href='https://poap.xyz'><img src="img/brand/poap.png" alt="poap"/></a>
@@ -70,11 +70,11 @@ const Brands = () => {
                     <div className="item">
                         <a href='https://polygon.technology'><img src="img/brand/polygon.png" alt="polygon"/></a>
                     </div>
-                    <div className="item">
-                        <a href='https://docs.textile.io'><img src="img/brand/textile.png" alt="textile"/></a>
+                    <div className="item" style={{paddingTop: 20}}>
+                        <a href='https://thirdweb.com'><img src="img/brand/Creative_Brands_New_York-Banner.png" width={180} alt="thirdweb"/></a>
                     </div>
-                    <div className="item">
-                        <a href='https://urbanuprisecrew.com'><img src="img/brand/UUC.png" alt="Urban Uprise Crew"/></a>
+                    <div className="item" style={{paddingTop: 10}}>
+                        <a href='https://wert.io'><img src="https://wert.io/_next/static/media/logo.0cf3ee93.svg" width={100} alt="Wert"/></a>
                     </div>
                     <div className="item">
                         <a href='https://lens.dev'><img src="img/brand/Lens-web.png" alt="Lens Protocol"/></a>
