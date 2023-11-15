@@ -19,6 +19,7 @@ As an Brand Pass holder, you will gain access to our Brand dashboard, which will
 
 **For a monthly fee of just $1000**, you can become a Brand Pass holder and enjoy the following benefits:
 
+* **Premium** access to our [Dear, Creative](https://news.creativeplatform.xyz) publication.
 * Advertising access to our exclusive Creative fintech software platforms.
 * Real-time updates on advertising performance.
 * A revenue share based on your continued investment with us.

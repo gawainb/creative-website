@@ -19,6 +19,7 @@ As an Investors Pass holder, you will gain access to our investment dashboard, w
 
 **For a monthly fee of just $100**, you can become an Investors Pass holder and enjoy the following benefits:
 
+* **Premium** access to our [Dear, Creative](https://news.creativeplatform.xyz) publication.
 * Access to our exclusive investment opportunities.
 * Real-time updates on investment performance.
 * A revenue share based on your continued investment with us.

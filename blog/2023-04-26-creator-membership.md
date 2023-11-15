@@ -19,7 +19,8 @@ As an Creator Pass holder, you will gain access to our Creator dashboard, which 
 
 **For a monthly fee of just $10**, you can become a Creator Pass holder and enjoy the following benefits:
 
-* Access to our exclusive Creative fintech software platforms.
+* **Premium** access to our [Dear, Creative](https://news.creativeplatform.xyz) publication.
+* Access to our cutting edge Creative fintech software platforms.
 * Real-time updates on content performance.
 * A revenue share based on your continued investment with us.
 * Priority access to our team for personalized support.

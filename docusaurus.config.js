@@ -102,6 +102,11 @@ const config = {
             label: 'Docs',
           },
           {
+            to: 'blog', 
+            label: 'Pricing', 
+            position: 'left',
+          },
+          {
             type: 'dropdown',
             label: 'Platforms',
             position: 'left',
@@ -171,9 +176,9 @@ const config = {
             ],
           },
           {
-            to: 'blog', 
-            label: '✅ Unlock the VIP Pass to the Future', 
-            position: 'left',
+            href: "https://vote.creativeplatform.xyz",
+            label: 'Vote',
+            position: 'left', 
           },
           {
             href: "https://open.spotify.com/show/4zAsBnJwZKquxvI7oPqRam?si=3bcceebea4614195",
