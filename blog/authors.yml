@@ -2,16 +2,22 @@ g2:
   name: G2
   title: Founder/CEO
   url: https://github.com/sirgawain0x
-  image_url: https://github.com/sirgawain0x.png
+  image_url: https://ipfs.io/ipfs/QmYrpDeQBC9RwgURXiBSJqx4ZBVWKgkbXxcFQgmzKuVjks/0.png
 
 jeldon:
   name: J. Eldon
   title: Sound Engineer @ Creative
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+  url: https://jeldonmusic.com
+  image_url: https://ipfs.io/ipfs/QmZbkoLWk1uWitnPsyxEb5ecq4X86PQRznHGa9zxhoMfy1/17.png
 
 headishere:
   name: headishere
   title: Project Manager @ Creative
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+  url: https://github.com/cakeee
+  image_url: https://ipfs.io/ipfs/QmPxjDmkN1RQR3tctkMSi2cS1RMQKTE8pkygKRHv1Y9X7W/10.png
+
+borrowlucid:
+  name: borrowlucid
+  title: Story & Community @ Creative
+  url: https://github.com/borrowlucid
+  image_url: https://ipfs.io/ipfs/QmZbkoLWk1uWitnPsyxEb5ecq4X86PQRznHGa9zxhoMfy1/8.png
