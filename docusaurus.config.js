@@ -108,7 +108,7 @@ const config = {
           },
           {
             href:"https://app.creativeplatform.xyz",
-            label: 'Access Platforms',
+            label: 'Access Software',
             position: 'left',
           },
           {
