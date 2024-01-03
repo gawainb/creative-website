@@ -18,7 +18,7 @@ const Banner = () => {
                 <Row>
                     <Col lg={7}>
                         <div className="banner-one__content">
-                            <p className="banner-one__tag-line">Welcome to Creative<a href="https://creativeplatform.xyz/blog/creator-membership">🎉 JOIN TODAY</a></p>
+                            <p className="banner-one__tag-line">Welcome to Creative<a href="https://app.creativeplatform.xyz/">🎉 GET STARTED</a></p>
                             <h3>The stage is <br/> <strong>YOURS</strong></h3>
                             <h4>Join the movement that's creating a revolutionary way of connecting Creators, Brands and their Fans. A more fair, transparent, and fun ecosystem for everyone.</h4>
                             <a href="#features" data-target="#features" className="thm-btn banner-one__btn scroll-to-target">Learn More</a>

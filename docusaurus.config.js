@@ -107,49 +107,15 @@ const config = {
             position: 'left',
           },
           {
-            type: 'dropdown',
-            label: 'Platforms',
+            href:"https://app.creativeplatform.xyz",
+            label: 'Access Platforms',
             position: 'left',
-            items: [
-              {
-                href: "https://tv.creativeplatform.xyz",
-                label: "CREATIVE TV",
-              },
-              {
-                href: "https://music.creativeplatform.xyz",
-                label: "CREATIVE Music",
-              },
-              {
-                href: "https://marketplace.creativeplatform.xyz",
-                label: "CREATIVE Marketplace"
-              },
-              {
-                href: "https://fanverge.creativeplatform.xyz",
-                label: "Fanverge"
-              },
-              {
-                href: "https://work.creativeplatform.xyz",
-                label: "CREATIVE Work",
-              },
-              {
-                href: "https://dao.creativeplatform.xyz",
-                label: "CREATIVE ProjeX",
-              },
-              {
-                href: "https://events.creativeplatform.xyz",
-                label: "CREATIVE Events",
-              },
-            ]
           },
           {
             type: 'dropdown',
             label: 'Collections',
             position: 'left',
             items: [
-              {
-                href: "https://memberships.creativeplatform.xyz",
-                label: "CREATIVE Memberships"
-              },
               {
                 href: "https://kidz.creativeplatform.xyz",
                 label: "CREATIVE KIDZ ⌐◨-◨",
