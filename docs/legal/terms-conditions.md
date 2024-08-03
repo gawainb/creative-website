@@ -28,6 +28,9 @@ b. User Contributions: By contributing content or materials to the platform, you
 a. The Creative Organization DAO platform is provided on an "as is" and "as available" basis. We make no warranties or representations about the accuracy, reliability, completeness, or timeliness of the platform.
 b. Creative Organization DAO does not guarantee the availability, continuity, or security of the platform, and we disclaim any liability for any harm or loss arising from the use of our services.
 
+## SMS Terms and Conditions
+Creative Organization DAO: A campaign that covers multiple use cases such as Customer Care and Marketing to engage with our customers. Message frequency varies. Message and data rates may apply. Reply HELP for help. Reply STOP to cancel. Carriers are not liable for any delays or undelivered messages.
+
 ## Limitation of Liability
 a. In no event shall Creative Organization DAO or its affiliates be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your use of the platform, even if advised of the possibility of such damages.
 b. To the maximum extent permitted by law, our total liability for any claims under these Terms, whether in contract, tort, or otherwise, shall be limited to the amount paid by you, if any, to access and use our services.
