@@ -77,6 +77,8 @@ We will retain your personal information for as long as necessary to fulfill the
 
 We employ reasonable security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
 
+No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+
 ## Your Rights
 
 You have certain rights regarding your personal information, including the right to access, correct, delete, or restrict its processing. You may also have the right to object to certain processing activities and to data portability. To exercise these rights, please contact us using the information provided below.
